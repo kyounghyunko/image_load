@@ -2,8 +2,9 @@
 //  image_load_exampleUITests.swift
 //  image_load_exampleUITests
 //
-//  Created by 高 景賢 on 2019/01/25.
-//  Copyright © 2019年 cries. All rights reserved.
+//  Created by ko on 2019/01/25.
+//  Copyright © 2019年 ko. All rights reserved.
+
 //
 
 import XCTest
